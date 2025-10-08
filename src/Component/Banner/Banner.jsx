@@ -15,12 +15,12 @@ const Banner = () => {
                   <div className='flex justify-center items-center gap-6 mt-6'>
                     <div className='flex gap-3 border-1 font-medium border-[#D2D2D2] px-4 py-2 rounded-md'>
                      <img src={group} alt="" />
-                     <button> Google Play</button>
+                       <a href="https://play.google.com/store/games?hl=en" target='_blank'>Google Play</a>
                   </div>
                   <div className='flex gap-3 border-1 font-medium border-[#D2D2D2] px-4 py-2 rounded-md'>
                      <img src={group1} alt="" />
-                     <button> App Store</button>
-                  </div>
+                    <a href="https://www.apple.com/app-store/" target='_blank'>App Store</a>                 
+                     </div>
                   </div>
                  
             </div>

@@ -1,0 +1,380 @@
+[
+  {
+    "image": "https://i.ibb.co.com/pjmGvwqr/images.jpg",
+    "title": "ChatMaster",
+    "companyName": "TechNova Ltd.",
+    "id": 1,
+    "description": "ChatMaster is an intelligent messaging platform designed to make your conversations smarter, faster, and more personalized. With real-time translation, AI-powered replies, and smart notifications, you can stay connected effortlessly with friends, family, and colleagues. It also includes group chat management tools, custom themes, and end-to-end encryption for a secure and seamless experience.",
+    "size": 45,
+    "reviews": 12500,
+    "ratingAvg": 4.6,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FqxgG91s/download.png",
+    "title": "PhotoSnap",
+    "companyName": "PixelPro Inc.",
+    "id": 2,
+    "description": "PhotoSnap is a fast and lightweight photo editor built for everyone. Whether you’re a beginner or a pro, you can create stunning images using advanced filters, AI auto-enhancements, background removers, and special effects. With offline support and quick export options, PhotoSnap ensures you can edit your photos anywhere, anytime, without losing quality.",
+    "size": 32,
+    "reviews": 9800,
+    "ratingAvg": 4.3,
+    "downloads": "3.2M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/h1hxt6rY/download-1.png",
+    "title": "FitTrack",
+    "companyName": "Healthify Co.",
+    "id": 3,
+    "description": "FitTrack helps you take control of your fitness journey by tracking your workouts, calories, steps, and sleep patterns in real-time. It includes personalized training plans, interactive challenges, progress charts, and reminders to keep you motivated. Whether you're a casual jogger or a gym enthusiast, FitTrack adapts to your lifestyle and goals.",
+    "size": 58,
+    "reviews": 17500,
+    "ratingAvg": 4.8,
+    "downloads": "7.8M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 11300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gZbQFv7C/download.jpg",
+    "title": "LearnIt",
+    "companyName": "EduCore",
+    "id": 4,
+    "description": "LearnIt is a powerful e-learning platform that offers thousands of free and premium courses on topics like coding, design, business, and personal development. With video lessons, live classes, interactive quizzes, and offline access, it’s designed to help learners at all levels gain real-world skills and boost their careers. You can also track your learning progress and earn certificates for completed courses.",
+    "size": 80,
+    "reviews": 20500,
+    "ratingAvg": 4.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 10800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KxJGNxdn/download-1.jpg",
+    "title": "Foodie",
+    "companyName": "TasteHub",
+    "id": 5,
+    "description": "Foodie makes discovering and ordering delicious food easier than ever. Browse menus from top-rated restaurants, explore trending dishes, and place your order in just a few taps. With real-time delivery tracking, exclusive discounts, and a clean interface, Foodie ensures a smooth and enjoyable food ordering experience from start to finish.",
+    "size": 42,
+    "reviews": 15300,
+    "ratingAvg": 4.2,
+    "downloads": "6.4M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Mx6w78Hj/download-2.jpg",
+    "title": "NoteSpace",
+    "companyName": "SoftSphere",
+    "id": 6,
+    "description": "NoteSpace is a minimalist yet powerful note-taking app that helps you capture your thoughts instantly. Organize notes with tags, sync them securely across all your devices, and access everything offline. Whether you’re writing daily journals, saving ideas, or planning projects, NoteSpace offers a clean and distraction-free writing experience.",
+    "size": 25,
+    "reviews": 8700,
+    "ratingAvg": 4.4,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/W40s40L8/download-3.jpg",
+    "title": "TravelGo",
+    "companyName": "GlobeX",
+    "id": 7,
+    "description": "TravelGo is your all-in-one travel companion for booking flights, hotels, and tours at unbeatable prices. It features smart search filters, personalized recommendations, and real-time price alerts to help you plan your dream trips effortlessly. You can manage bookings, check-in online, and explore curated travel guides to make every journey unforgettable.",
+    "size": 60,
+    "reviews": 19400,
+    "ratingAvg": 4.7,
+    "downloads": "8.5M",
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/v6Nz2j1P/images-1.jpg",
+    "title": "MusicFlow",
+    "companyName": "SoundWave",
+    "id": 8,
+    "description": "MusicFlow is a premium music streaming app that brings millions of songs, curated playlists, and exclusive releases right to your fingertips. Enjoy seamless playback, offline downloads, and personalized recommendations based on your taste. With high-quality audio and a sleek interface, MusicFlow makes your listening experience smooth and enjoyable anywhere you go.",
+    "size": 70,
+    "reviews": 22800,
+    "ratingAvg": 4.9,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 16200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pjmGvwqr/images.jpg",
+    "title": "ChatMaster",
+    "companyName": "TechNova Ltd.",
+    "id": 9,
+    "description": "ChatMaster is an intelligent messaging platform designed to make your conversations smarter, faster, and more personalized. With real-time translation, AI-powered replies, and smart notifications, you can stay connected effortlessly with friends, family, and colleagues. It also includes group chat management tools, custom themes, and end-to-end encryption for a secure and seamless experience.",
+    "size": 45,
+    "reviews": 12500,
+    "ratingAvg": 4.6,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FqxgG91s/download.png",
+    "title": "PhotoSnap",
+    "companyName": "PixelPro Inc.",
+    "id": 10,
+    "description": "PhotoSnap is a fast and lightweight photo editor built for everyone. Whether you’re a beginner or a pro, you can create stunning images using advanced filters, AI auto-enhancements, background removers, and special effects. With offline support and quick export options, PhotoSnap ensures you can edit your photos anywhere, anytime, without losing quality.",
+    "size": 32,
+    "reviews": 9800,
+    "ratingAvg": 4.3,
+    "downloads": "3.2M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DBxZhZr/demo-app-1.webp",
+    "title": "FitTrack",
+    "companyName": "Healthify Co.",
+    "id": 11,
+    "description": "FitTrack helps you take control of your fitness journey by tracking your workouts, calories, steps, and sleep patterns in real-time. It includes personalized training plans, interactive challenges, progress charts, and reminders to keep you motivated. Whether you're a casual jogger or a gym enthusiast, FitTrack adapts to your lifestyle and goals.",
+    "size": 58,
+    "reviews": 17500,
+    "ratingAvg": 4.8,
+    "downloads": "7.8M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 11300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/m5835Y5J/demo-app-2.webp",
+    "title": "LearnIt",
+    "companyName": "EduCore",
+    "id": 12,
+    "description": "LearnIt is a powerful e-learning platform that offers thousands of free and premium courses on topics like coding, design, business, and personal development. With video lessons, live classes, interactive quizzes, and offline access, it’s designed to help learners at all levels gain real-world skills and boost their careers. You can also track your learning progress and earn certificates for completed courses.",
+    "size": 80,
+    "reviews": 20500,
+    "ratingAvg": 4.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 10800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qY3gtjxp/demo-app-3.webp",
+    "title": "Foodie",
+    "companyName": "TasteHub",
+    "id": 13,
+    "description": "Foodie makes discovering and ordering delicious food easier than ever. Browse menus from top-rated restaurants, explore trending dishes, and place your order in just a few taps. With real-time delivery tracking, exclusive discounts, and a clean interface, Foodie ensures a smooth and enjoyable food ordering experience from start to finish.",
+    "size": 42,
+    "reviews": 15300,
+    "ratingAvg": 4.2,
+    "downloads": "6.4M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/RmPX7dT/demo-app-4.webp",
+    "title": "NoteSpace",
+    "companyName": "SoftSphere",
+    "id": 14,
+    "description": "NoteSpace is a minimalist yet powerful note-taking app that helps you capture your thoughts instantly. Organize notes with tags, sync them securely across all your devices, and access everything offline. Whether you’re writing daily journals, saving ideas, or planning projects, NoteSpace offers a clean and distraction-free writing experience.",
+    "size": 25,
+    "reviews": 8700,
+    "ratingAvg": 4.4,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Sw8jnB8Y/demo-app-5.webp",
+    "title": "TravelGo",
+    "companyName": "GlobeX",
+    "id": 15,
+    "description": "TravelGo is your all-in-one travel companion for booking flights, hotels, and tours at unbeatable prices. It features smart search filters, personalized recommendations, and real-time price alerts to help you plan your dream trips effortlessly. You can manage bookings, check-in online, and explore curated travel guides to make every journey unforgettable.",
+    "size": 60,
+    "reviews": 19400,
+    "ratingAvg": 4.7,
+    "downloads": "8.5M",
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/v6Nz2j1P/images-1.jpg",
+    "title": "MusicFlow",
+    "companyName": "SoundWave",
+    "id": 16,
+    "description": "MusicFlow is a premium music streaming app that brings millions of songs, curated playlists, and exclusive releases right to your fingertips. Enjoy seamless playback, offline downloads, and personalized recommendations based on your taste. With high-quality audio and a sleek interface, MusicFlow makes your listening experience smooth and enjoyable anywhere you go.",
+    "size": 70,
+    "reviews": 22800,
+    "ratingAvg": 4.9,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 16200 }
+    ]
+  },
+   {
+    "image": "https://i.ibb.co.com/wh3tvNMp/demo-app-6.webp",
+    "title": "LearnIt",
+    "companyName": "EduCore",
+    "id": 17,
+    "description": "LearnIt is a powerful e-learning platform that offers thousands of free and premium courses on topics like coding, design, business, and personal development. With video lessons, live classes, interactive quizzes, and offline access, it’s designed to help learners at all levels gain real-world skills and boost their careers. You can also track your learning progress and earn certificates for completed courses.",
+    "size": 80,
+    "reviews": 20500,
+    "ratingAvg": 4.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 10800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KxJGNxdn/download-1.jpg",
+    "title": "Foodie",
+    "companyName": "TasteHub",
+    "id": 18,
+    "description": "Foodie makes discovering and ordering delicious food easier than ever. Browse menus from top-rated restaurants, explore trending dishes, and place your order in just a few taps. With real-time delivery tracking, exclusive discounts, and a clean interface, Foodie ensures a smooth and enjoyable food ordering experience from start to finish.",
+    "size": 42,
+    "reviews": 15300,
+    "ratingAvg": 4.2,
+    "downloads": "6.4M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Mx6w78Hj/download-2.jpg",
+    "title": "NoteSpace",
+    "companyName": "SoftSphere",
+    "id": 19,
+    "description": "NoteSpace is a minimalist yet powerful note-taking app that helps you capture your thoughts instantly. Organize notes with tags, sync them securely across all your devices, and access everything offline. Whether you’re writing daily journals, saving ideas, or planning projects, NoteSpace offers a clean and distraction-free writing experience.",
+    "size": 25,
+    "reviews": 8700,
+    "ratingAvg": 4.4,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/W40s40L8/download-3.jpg",
+    "title": "TravelGo",
+    "companyName": "GlobeX",
+    "id": 20,
+    "description": "TravelGo is your all-in-one travel companion for booking flights, hotels, and tours at unbeatable prices. It features smart search filters, personalized recommendations, and real-time price alerts to help you plan your dream trips effortlessly. You can manage bookings, check-in online, and explore curated travel guides to make every journey unforgettable.",
+    "size": 60,
+    "reviews": 19400,
+    "ratingAvg": 4.7,
+    "downloads": "8.5M",
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/v6Nz2j1P/images-1.jpg",
+    "title": "MusicFlow",
+    "companyName": "SoundWave",
+    "id": 21,
+    "description": "MusicFlow is a premium music streaming app that brings millions of songs, curated playlists, and exclusive releases right to your fingertips. Enjoy seamless playback, offline downloads, and personalized recommendations based on your taste. With high-quality audio and a sleek interface, MusicFlow makes your listening experience smooth and enjoyable anywhere you go.",
+    "size": 70,
+    "reviews": 22800,
+    "ratingAvg": 4.9,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 16200 }
+    ]
+  }
+]

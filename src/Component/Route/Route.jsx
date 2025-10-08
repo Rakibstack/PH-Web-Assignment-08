@@ -20,6 +20,7 @@ import Installation from '../Installation/Installation';
         },
         {   
          path:'/Allapps',
+         loader: () => fetch('/Allapps.json'),
          Component: Allapps,
         },
         {

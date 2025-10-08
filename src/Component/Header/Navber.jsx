@@ -16,14 +16,16 @@ const Navber = () => {
       <ul
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-         <li><a>Home </a></li>     
-      <li><a>Apps </a></li>
-      <li><a>Installation</a></li>
+       <nav className="flex gap-5 px-1 text-[#000000] font-medium">
+         <NavLink to='/'>Home</NavLink>
+        <NavLink to='/Allapps'>Apps</NavLink>
+        <NavLink to='/Installation'>Installation</NavLink>
+       </nav>
       </ul>
     </div>
     <div className='flex gap-2 items-center'>
         <img src={Navicon} />
-        <h3 className='font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>HERO.IO</h3>
+         <NavLink to='/'><h3 className='font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>HERO.IO</h3></NavLink>
     </div>
     
   </div>
@@ -38,7 +40,7 @@ const Navber = () => {
   </div>
   <div className="navbar-end">
     
-    <a className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"> <img src={giticon}/> Contribute</a>
+    <a href='https://github.com/Rakibstack' target='_blank' className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"> <img src={giticon}/> Contribute</a>
   </div>
 </div>
         </div>
