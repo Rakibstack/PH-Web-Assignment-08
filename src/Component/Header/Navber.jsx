@@ -2,6 +2,7 @@ import React from 'react';
 import Navicon from '../../assets/logo-D9NHcesw 1.png'
 import giticon from '../../assets/fi_2111432.png'
 import { NavLink } from 'react-router';
+ import './nav.css';
 
 const Navber = () => {
     return (
@@ -27,12 +28,13 @@ const Navber = () => {
     
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="flex gap-5 px-1 text-[#000000] font-medium">
-        <NavLink>Home</NavLink>
-        <NavLink>Apps</NavLink>
-        <NavLink>Installation</NavLink>
+    
+       <nav className="flex gap-5 px-1 text-[#000000] font-medium">
+         <NavLink to='/'>Home</NavLink>
+        <NavLink to='/Allapps'>Apps</NavLink>
+        <NavLink to='/Installation'>Installation</NavLink>
+       </nav>
         
-    </ul>
   </div>
   <div className="navbar-end">
     

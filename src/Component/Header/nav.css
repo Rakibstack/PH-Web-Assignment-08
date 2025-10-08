@@ -1,0 +1,10 @@
+
+
+nav a.active {
+    
+   background: linear-gradient(to right, #632EE3, #9F62F2);
+    background-clip: text; 
+    color: transparent; 
+    text-decoration: underline;
+    text-decoration-color: #9F62F2;
+}

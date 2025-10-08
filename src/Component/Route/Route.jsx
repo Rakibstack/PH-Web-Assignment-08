@@ -3,6 +3,8 @@ import { createBrowserRouter } from "react-router";
 import Root from '../Root/Root';
 import Errorpages from '../Pages/Errorpages/Errorpages';
 import Home from '../Home/Home';
+import Allapps from '../AllApps/Allapps';
+import Installation from '../Installation/Installation';
 
  export const router = createBrowserRouter([
   {
@@ -13,7 +15,16 @@ import Home from '../Home/Home';
         {
             index: true,
             path: '/',
+            loader : () => fetch('/Trandingapp.json'),
             Component: Home,
+        },
+        {   
+         path:'/Allapps',
+         Component: Allapps,
+        },
+        {
+         path: '/Installation',
+         Component: Installation,
         }
      ]
   },
