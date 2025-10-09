@@ -6,7 +6,9 @@ const Home = () => {
     return (
         <div className=' bg-[#D2D2D250]'>
              <Banner></Banner>
-             <TrandingApp></TrandingApp>
+             <TrandingApp>
+            
+             </TrandingApp>
         </div>
     );
 };

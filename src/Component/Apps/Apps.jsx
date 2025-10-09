@@ -1,11 +1,13 @@
 import React from 'react';
 import download from '../../assets/icon-downloads.png'
 import rating from '../../assets/icon-ratings.png'
+import { Link } from 'react-router';
 
 const Apps = ({ Data }) => {
-    const { image, title, ratingAvg, downloads } = Data;
+    const { image, title, ratingAvg, downloads,id} = Data;
     return (
-        <div>
+        
+           <Link to={`/Carddetails/${id}`}>
             <div className="card bg-base-100 shadow-md transform transition duration-400 hover:-translate-y-5 hover:scale-103 hover:shadow-2xl">
                 <figure className='p-4'>
                     <img
@@ -27,7 +29,8 @@ const Apps = ({ Data }) => {
                     </div>
                 </div>
             </div>
-        </div>
+           </Link>
+       
     );
 };
 

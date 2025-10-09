@@ -1,13 +1,15 @@
 import React from 'react';
 import icondownload from '../../../assets/icon-downloads.png'
 import iconrating from '../../../assets/icon-ratings.png'
+import { Link } from 'react-router';
 
 const Tranding = ({ app }) => {
 
-    const { image, title, ratingAvg, downloads } = app;
+    const { image, title, ratingAvg, downloads,id } = app;
     return (
         <>
          <div>
+           <Link to={`/Carddetails/${id}`}>
             <div className="card bg-base-100 shadow-md transform transition duration-400 hover:-translate-y-5 hover:scale-103 hover:shadow-2xl">
                 <figure className='p-4'>
                     <img
@@ -29,6 +31,7 @@ const Tranding = ({ app }) => {
                     </div>
                 </div>
             </div>
+           </Link>
         </div>
 
         </>

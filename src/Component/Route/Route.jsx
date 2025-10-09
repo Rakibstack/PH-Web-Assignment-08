@@ -6,6 +6,7 @@ import Home from '../Home/Home';
 import Allapps from '../AllApps/Allapps';
 import Installation from '../Installation/Installation';
 import { createBrowserRouter } from 'react-router-dom';
+import Carddetails from '../Carddetails/Carddetails';
 
  export const router = createBrowserRouter([
  
@@ -27,9 +28,14 @@ import { createBrowserRouter } from 'react-router-dom';
          Component: Allapps,
         },
         {
+           path : '/Carddetails/:id',
+           loader: () => fetch('/Allapps.json'),
+           Component: Carddetails,
+        },
+        {
          path: '/Installation',
          Component: Installation,
-        }
+        },
      ]
   }
-]);
+]);     
