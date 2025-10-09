@@ -3,6 +3,8 @@ import Errorimg from '../../../assets/error-404.png'
 import { useNavigate } from 'react-router';
 
 const Errorpages = () => {
+    
+    
      const navigate = useNavigate();
     return (
         <div className='container max-w-[1200px] mx-auto py-16'>
