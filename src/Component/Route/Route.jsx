@@ -4,9 +4,12 @@ import Root from '../Root/Root';
 import Errorpages from '../Pages/Errorpages/Errorpages';
 import Home from '../Home/Home';
 import Allapps from '../AllApps/Allapps';
-import Installation from '../Installation/Installation';
+
 import { createBrowserRouter } from 'react-router-dom';
 import Carddetails from '../Carddetails/Carddetails';
+import Installedapp from '../Installedapp/Installedapp';
+
+
 
  export const router = createBrowserRouter([
  
@@ -33,9 +36,11 @@ import Carddetails from '../Carddetails/Carddetails';
            Component: Carddetails,
         },
         {
-         path: '/Installation',
-         Component: Installation,
+         path: '/Installedapp',
+         Component: Installedapp,
         },
-     ]
-  }
+       
+         
+     ]  
+  }  
 ]);     

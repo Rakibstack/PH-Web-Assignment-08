@@ -19,7 +19,7 @@ const Navber = () => {
        <nav className="flex gap-5 px-1 text-[#000000] font-medium">
          <NavLink to='/'>Home</NavLink>
         <NavLink to='/Allapps'>Apps</NavLink>
-        <NavLink to='/Installation'>Installation</NavLink>
+        <NavLink to='/Installedapp'>Installation</NavLink>
        </nav>
       </ul>
     </div>
@@ -34,7 +34,7 @@ const Navber = () => {
        <nav className="flex gap-5 px-1 text-[#000000] font-medium">
          <NavLink to='/'>Home</NavLink>
         <NavLink to='/Allapps'>Apps</NavLink>
-        <NavLink to='/Installation'>Installation</NavLink>
+        <NavLink to='/Installedapp'>Installation</NavLink>
        </nav>
         
   </div>
