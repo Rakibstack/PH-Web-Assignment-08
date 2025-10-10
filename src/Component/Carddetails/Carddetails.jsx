@@ -17,7 +17,7 @@ const Carddetails = () => {
     const singlecard = data.find(card => card.id === paramsid)
     const { image, title, companyName, downloads, reviews, ratingAvg, description } = singlecard;
    
-    const RatingData = data?.ratings || [];
+    const RatingData = singlecard.ratings || [];
 
      const storedApps = JSON.parse(localStorage.getItem('installedApps')) || [] ;
       const isInstalled = storedApps.some(item => item.id === singlecard.id);
@@ -36,18 +36,18 @@ const Carddetails = () => {
         <div className='bg-gray-100 py-14'>
             <div className='container max-w-[1200px] mx-auto '>
                {/* Card details  */}
-                <div className='lg:grid grid-cols-3'>
+                <div className=' lg:grid grid-cols-3'>
                     <figure className='col-span-1 '>
-                        <img className='w-full h-[360px] rounded-xl '
+                        <img className='lg:w-full h-[360px] rounded-xl '
                             src={image}
                             alt="Movie" />
                     </figure>
-                    <div className=" ml-10 col-span-2">
+                    <div className=" ml-10  lg:col-span-2">
                         <h2 className="card-title text-[#001931] font-bold text-[2rem]">{title}</h2>
                         <p className='mt-2'>Developed by : <span className='font-medium bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>{companyName}</span></p>
                         <div className="divider"></div>
 
-                        <div className='flex gap-16 mt-5'>
+                        <div className='sm:flex gap-16 mt-5'>
                             <div className=''>
                                 <img className='w-7 h-7 ml-5' src={download} />
                                 <p className='text-[#001931] mt-2 font-medium'>Downloads</p>

@@ -269,24 +269,7 @@
       { "name": "5 star", "count": 11100 }
     ]
   },
-  {
-    "image": "https://i.ibb.co.com/v6Nz2j1P/images-1.jpg",
-    "title": "MusicFlow",
-    "companyName": "SoundWave",
-    "id": 16,
-    "description": "MusicFlow is a premium music streaming app that brings millions of songs, curated playlists, and exclusive releases right to your fingertips. Enjoy seamless playback, offline downloads, and personalized recommendations based on your taste. With high-quality audio and a sleek interface, MusicFlow makes your listening experience smooth and enjoyable anywhere you go.",
-    "size": 70,
-    "reviews": 22800,
-    "ratingAvg": 4.9,
-    "downloads": "15M",
-    "ratings": [
-      { "name": "1 star", "count": 600 },
-      { "name": "2 star", "count": 800 },
-      { "name": "3 star", "count": 1000 },
-      { "name": "4 star", "count": 4200 },
-      { "name": "5 star", "count": 16200 }
-    ]
-  },
+  
    {
     "image": "https://i.ibb.co.com/wh3tvNMp/demo-app-6.webp",
     "title": "LearnIt",
